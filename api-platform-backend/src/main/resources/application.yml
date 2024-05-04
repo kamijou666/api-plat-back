@@ -4,9 +4,9 @@ spring:
   # DataSource Config
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3307/api_platform
-    username: root
-    password: 123456
+    url: jdbc:mysql://
+    username: 
+    password: 
   mvc:
     pathmatch:
       matching-strategy: ANT_PATH_MATCHER
