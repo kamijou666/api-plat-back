@@ -1,0 +1,12 @@
+com\kamijou\apicommon\service\InnerInterfaceInfoService.class
+com\kamijou\apicommon\model\enums\InterfaceInfoStatusEnum.class
+com\kamijou\apicommon\model\enums\PostGenderEnum.class
+com\kamijou\apicommon\model\enums\PostReviewStatusEnum.class
+com\kamijou\apicommon\model\entity\User.class
+com\kamijou\apicommon\service\InnerUserInterfaceInfoService.class
+com\kamijou\apicommon\model\vo\UserVO.class
+com\kamijou\apicommon\service\InnerUserService.class
+com\kamijou\apicommon\model\entity\InterfaceInfo.class
+com\kamijou\apicommon\model\entity\Post.class
+com\kamijou\apicommon\model\entity\UserInterfaceInfo.class
+com\kamijou\apicommon\model\vo\PostVO.class

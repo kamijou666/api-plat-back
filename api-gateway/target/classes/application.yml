@@ -1,0 +1,32 @@
+server:
+  port: 8090
+spring:
+  main:
+    web-application-type: reactive
+  cloud:
+    gateway:
+      default-filters:
+        - AddResponseHeader=source, kamijou
+      routes:
+        - id: api_route
+          uri: http://localhost:8101
+          predicates:
+            - Path=/api/**
+logging:
+  level:
+    org:
+      springframework:
+        cloud:
+          gateway: trace
+
+dubbo:
+  application:
+    name: dubbo-springboot-demo-provider
+    logger: slf4j
+    qosPort: 33333
+  protocol:
+    name: dubbo
+    port: 50052
+  registry:
+    id: nacos-registry
+    address: nacos://localhost:8848

@@ -1,0 +1,5 @@
+com\kamijou\clientsdk\client\ApiClient.class
+com\kamijou\clientsdk\utils\SignUtils.class
+com\kamijou\clientsdk\ApiClientConfig.class
+com\kamijou\clientsdk\model\User.class
+META-INF\spring-configuration-metadata.json

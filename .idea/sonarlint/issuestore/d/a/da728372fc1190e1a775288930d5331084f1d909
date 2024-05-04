@@ -1,0 +1,14 @@
+
+`	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112t"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+‚
+java:S1488…"fImmediately return this expression instead of assigning it to the temporary variable "handleResponse".(üè­‹ùÿÿÿÿ
+P	java:S125{"<This block of commented-out lines of code should be removed.(®äŠ(
+M
+java:S2696—"6Make the enclosing method "static" or remove this set.(ê¡û÷
+e
+java:S3252—"NUse static access with "com.alibaba.fastjson.JSON" for "DEFFAULT_DATE_FORMAT".(ê¡û÷
+]
+java:S3252˜"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(ğÇâñ
+K
+java:S1144•"/Remove this unused private "modifyBody" method.(ÃÀ®™üÿÿÿÿ

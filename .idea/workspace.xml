@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77355bbd-d4a3-4d08-815b-a76627b9f198" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/0947c41544307f11a64e4e90c0f3adb9da2405cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/151c1037af717f9bb6666be0d54f9dfb1ad1d038" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a9a3777c00270ce384d5a1bfb715e7d7bb47e5f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2bfa2b108f2439e99e004f4085b58c22cf995f73" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48c5b7f74c072110cbfdf8a9b8977490f12b38a1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a59f30d4dee43c90e2285bbcea5d7214ed77669" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/6104ebf02b8b12bf39df138b5d39d0c48b373e11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65c16955f194e93921671dbc50add26bb053bdf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/683b66951a975c0f82d9de966d8826f8a8214cd2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71a54053851a433e5c06c1970db76c7efb546491" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73251579c0371982cfd96f65cdb8ab9262cd5f88" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/744cad1a32ced7dadf4e27f6ab73f5feb4909ea1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/750c4ab675a24544a20be17e5f1833552d686647" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/867f9b9571089f96d41a15afa9b8043668c98e99" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8ba21814af4fe45f8c2ceaf907a3162068024d6a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6db78a365b56428c848a7a2019d22d72f0f8802" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc6504e7f29425896fe92c8cc4ac6c749b3c7d47" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c02be75f352aed0765f7dc49240bdf755a3100cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1de438e706e98c5904b4b415b9bbea1eeec9357" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c379c7e576de17346144091cc1ee350bee35496d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7e9c88eb964b24457e7e6088e97a1a69c9b42e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cbf12a3425623d718e04143550c9cf9b351fe6af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cea909afb923d3bc74781cbe010e3369715a9a60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d39570630fdcbd48c4da678399b299ea52060c52" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8b97f8dc8e5e43868a6452b9d27eca0a0453d2f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da728372fc1190e1a775288930d5331084f1d909" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc1fad4713d1408e7719d2694adf4cbccc1f3cd2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e41ee3748a427f0c4259db7a155b2d063a62aa11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f33c1cb6dc72b1ab1ece71e3ed5e4eac90e3040e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/9/0947c41544307f11a64e4e90c0f3adb9da2405cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/5/151c1037af717f9bb6666be0d54f9dfb1ad1d038" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/a/1a9a3777c00270ce384d5a1bfb715e7d7bb47e5f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/b/2bfa2b108f2439e99e004f4085b58c22cf995f73" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/8/48c5b7f74c072110cbfdf8a9b8977490f12b38a1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/a/5a59f30d4dee43c90e2285bbcea5d7214ed77669" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/1/6104ebf02b8b12bf39df138b5d39d0c48b373e11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/5/65c16955f194e93921671dbc50add26bb053bdf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/8/683b66951a975c0f82d9de966d8826f8a8214cd2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/1/71a54053851a433e5c06c1970db76c7efb546491" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/3/73251579c0371982cfd96f65cdb8ab9262cd5f88" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/4/744cad1a32ced7dadf4e27f6ab73f5feb4909ea1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/5/750c4ab675a24544a20be17e5f1833552d686647" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/6/867f9b9571089f96d41a15afa9b8043668c98e99" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/b/8ba21814af4fe45f8c2ceaf907a3162068024d6a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/6/a6db78a365b56428c848a7a2019d22d72f0f8802" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/c/bc6504e7f29425896fe92c8cc4ac6c749b3c7d47" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/0/c02be75f352aed0765f7dc49240bdf755a3100cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/1/c1de438e706e98c5904b4b415b9bbea1eeec9357" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/3/c379c7e576de17346144091cc1ee350bee35496d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/7/c7e9c88eb964b24457e7e6088e97a1a69c9b42e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/b/cbf12a3425623d718e04143550c9cf9b351fe6af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/e/cea909afb923d3bc74781cbe010e3369715a9a60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/3/d39570630fdcbd48c4da678399b299ea52060c52" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/8/d8b97f8dc8e5e43868a6452b9d27eca0a0453d2f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/a/da728372fc1190e1a775288930d5331084f1d909" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/c/dc1fad4713d1408e7719d2694adf4cbccc1f3cd2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/4/e41ee3748a427f0c4259db7a155b2d063a62aa11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/3/f33c1cb6dc72b1ab1ece71e3ed5e4eac90e3040e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/src/main/java/com/kamijou/apicommon/model/entity/InterfaceInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/src/main/java/com/kamijou/apicommon/model/entity/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/src/main/java/com/kamijou/apicommon/model/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/src/main/java/com/kamijou/apicommon/model/entity/UserInterfaceInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/src/main/java/com/kamijou/apicommon/model/enums/InterfaceInfoStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/src/main/java/com/kamijou/apicommon/model/enums/PostGenderEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/src/main/java/com/kamijou/apicommon/model/enums/PostReviewStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/src/main/java/com/kamijou/apicommon/model/vo/PostVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/src/main/java/com/kamijou/apicommon/model/vo/UserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/src/main/java/com/kamijou/apicommon/service/InnerInterfaceInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/src/main/java/com/kamijou/apicommon/service/InnerUserInterfaceInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/src/main/java/com/kamijou/apicommon/service/InnerUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/api-common-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/classes/com/kamijou/apicommon/model/entity/InterfaceInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/classes/com/kamijou/apicommon/model/entity/Post.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/classes/com/kamijou/apicommon/model/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/classes/com/kamijou/apicommon/model/entity/UserInterfaceInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/classes/com/kamijou/apicommon/model/enums/InterfaceInfoStatusEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/classes/com/kamijou/apicommon/model/enums/PostGenderEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/classes/com/kamijou/apicommon/model/enums/PostReviewStatusEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/classes/com/kamijou/apicommon/model/vo/PostVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/classes/com/kamijou/apicommon/model/vo/UserVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/classes/com/kamijou/apicommon/service/InnerInterfaceInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/classes/com/kamijou/apicommon/service/InnerUserInterfaceInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/classes/com/kamijou/apicommon/service/InnerUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/api-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/kamijou/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/kamijou/apigateway/CustomGlobalFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/kamijou/project/provider/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-plat-back.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/api-platform-backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/annotation/AuthCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/aop/AuthInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/aop/LogInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/common/BaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/common/DeleteRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/common/ErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/common/IdRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/common/PageRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/common/ResultUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/config/Knife4jConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/config/MyBatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/constant/CommonConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/constant/UserConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/controller/AnalysisController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/controller/InterfaceInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/controller/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/controller/UserInterfaceInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/exception/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/mapper/InterfaceInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/mapper/PostMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/mapper/UserInterfaceInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/interfaceinfo/InterfaceInfoAddRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/interfaceinfo/InterfaceInfoInvokeRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/interfaceinfo/InterfaceInfoQueryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/interfaceinfo/InterfaceInfoUpdateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/post/PostAddRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/post/PostDoThumbRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/post/PostQueryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/post/PostUpdateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/user/UserAddRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/user/UserLoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/user/UserQueryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/user/UserRegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/user/UserUpdateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/userinterfaceinfo/UserInterfaceInfoAddRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/userinterfaceinfo/UserInterfaceInfoQueryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/dto/userinterfaceinfo/UserInterfaceInfoUpdateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/entity/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/enums/InterfaceInfoStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/enums/PostGenderEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/enums/PostReviewStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/vo/InterfaceInfoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/vo/PostVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/model/vo/UserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/provider/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/provider/DemoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/service/InterfaceInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/service/UserInterfaceInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/service/impl/InterfaceInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/service/impl/PostServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/service/impl/UserInterfaceInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/service/impl/inner/InnerInterfaceInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/service/impl/inner/InnerUserInterfaceInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/java/com/kamijou/project/service/impl/inner/InnerUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/resources/mapper/InterfaceInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/resources/mapper/PostMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/resources/mapper/UserInterfaceInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-platform-backend/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/client-sdk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/src/main/java/com/kamijou/clientsdk/ApiClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/src/main/java/com/kamijou/clientsdk/client/ApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/src/main/java/com/kamijou/clientsdk/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/src/main/java/com/kamijou/clientsdk/utils/SignUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/target/classes/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/target/classes/com/kamijou/clientsdk/ApiClientConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/target/classes/com/kamijou/clientsdk/client/ApiClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/target/classes/com/kamijou/clientsdk/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/target/classes/com/kamijou/clientsdk/utils/SignUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/target/client-sdk-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-sdk/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface-info.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface-info/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface-info/src/main/java/com/kamijou/interfaceinfo/InterfaceInfoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface-info/src/main/java/com/kamijou/interfaceinfo/aop/InvokeCountAOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface-info/src/main/java/com/kamijou/interfaceinfo/controller/NameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface-info/src/main/java/com/kamijou/interfaceinfo/controller/StringController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface-info/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../frameWork/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="E:\frameWork\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8 (2)" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fzMgzQF3RxbKtlwS0P1qV4grZm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8 (2)&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/theProject/api-plat-back/api-platform-backend/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/theProject/api-plat-back/interface-info/src/main/java/com/kamijou/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2073027&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\theProject\api-plat-back\api-platform-backend\src\main\resources" />
+      <recent name="E:\theProject\api-plat-back\api-platform-backend\src\main\java\com\kamijou" />
+      <recent name="E:\theProject\api-plat-back\interface-info\src\main\resources" />
+      <recent name="E:\theProject\api-plat-back\interface-info\src\main\java\com" />
+      <recent name="E:\theProject\api-plat-back\api-gateway\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kamijou.interfaceinfo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.interface">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="api-plat-back" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="api-plat-back" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kamijou.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="interface" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="interface-info" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kamijou.interfaceinfo.InterfaceInfoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="platform" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-platform-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kamijou.project.MyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.interface" />
+      <item itemvalue="Spring Boot.gateway" />
+      <item itemvalue="Spring Boot.platform" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77355bbd-d4a3-4d08-815b-a76627b9f198" name="Changes" comment="" />
+      <created>1714799569317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714799569317</updated>
+      <workItem from="1714799570661" duration="1211000" />
+      <workItem from="1714800843099" duration="101000" />
+      <workItem from="1714800949513" duration="3272000" />
+      <workItem from="1714804247075" duration="658000" />
+      <workItem from="1714804920470" duration="3049000" />
+      <workItem from="1714807990170" duration="1030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kamijou/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/interface-info/src/main/java/com/kamijou/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
